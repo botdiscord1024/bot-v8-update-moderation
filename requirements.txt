@@ -1,0 +1,6 @@
+discord.py
+Flask
+Pillow
+aiohttp
+google-generativeai
+feedparser
